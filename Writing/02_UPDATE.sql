@@ -1,0 +1,1 @@
+/* siempre que se modifiquen datos hacerlo con el WHERE, para evitar cambios en general

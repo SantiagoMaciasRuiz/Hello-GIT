@@ -1,1 +1,0 @@
-/* siempre qeu se modifiquen datos hacerlo con el WHERE
