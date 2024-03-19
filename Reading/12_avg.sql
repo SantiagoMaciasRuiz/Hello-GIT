@@ -1,2 +1,2 @@
-SELECT AVG(age) FROM users;
+SELECT AVG(age) FROM users; 
 --media
